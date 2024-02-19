@@ -18,7 +18,7 @@ Create a private subnet with no internet since it is connected with the bastion 
 
 ![Screenshot Capture - 2024-02-19 - 23-08-02](https://github.com/keedevops/aws-series/assets/155215036/162bac42-2e98-479c-9117-10f67a4f3db6)
 
-
+ 
 
 
 
