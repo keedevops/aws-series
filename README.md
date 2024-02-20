@@ -11,7 +11,7 @@ Create an internet gateway with the same cidr block
 ![Screenshot Capture - 2024-02-19 - 23-00-45](https://github.com/keedevops/aws-series/assets/155215036/0cc3121f-0060-4f38-bdd9-67912c8bdba6)
 
 Create a route table for public and private subnet
-Create a public subnet with the same cidr block and give access to the internet with 0.0.0.0/0 because it acts like a bastion host 
+Create a ** public subnet** with the same cidr block and give access to the internet with 0.0.0.0/0 because it acts like a bastion host 
 ![Screenshot Capture - 2024-02-19 - 23-04-15](https://github.com/keedevops/aws-series/assets/155215036/71363e50-17dd-421e-9799-90e312523779)
 
 Create a private subnet with no internet since it is connected with the bastion host 
